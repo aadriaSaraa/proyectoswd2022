@@ -1,11 +1,11 @@
 [{
         "id": 1,
-        "autor": "Vuestros nombres",
-        "titulo": "El titulo de vuestra práctica",
-        "srcimg": "https://afrikiudl.github.io/practicawd/img/videojuegos.831f6cd2.jpg", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Texto que describa la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Adrià Sánchez Y Sara Hidalgo",
+        "titulo": "Ninfa",
+        "srcimg": "https://cdn.discordapp.com/attachments/866667654475415552/935948230087307274/logo.png", 
+        "alt": "Aparece el logotipo de la empesa, es el contorno de una flor de un nenúfar",
+        "texto": "Web de venta de colonias.",
+        "url": "https://aadriasaraa.github.io/Practica2_Ninfa/#/"
     },
     {
         "id": 2,
