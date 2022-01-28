@@ -1,11 +1,11 @@
 [{
         "id": 1,
-        "autor": "Vuestros nombres",
-        "titulo": "El titulo de vuestra práctica",
+        "autor": "Adrirà y Sara",
+        "titulo": "Ninfa",
         "srcimg": "https://afrikiudl.github.io/practicawd/img/videojuegos.831f6cd2.jpg", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Texto que describa la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "alt": "logotipo de la empresa, contorno blanco que recuerda a la flor de un nenúfar.",
+        "texto": "Tienda de colonias online",
+        "url": "https://aadriasaraa.github.io/Practica2_Ninfa/"
     },
     {
         "id": 2,
