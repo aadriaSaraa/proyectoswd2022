@@ -2,7 +2,7 @@
         "id": 1,
         "autor": "Laura Aguiló i Sandra Camacho",
         "titulo": "San & Lau Portfolio",
-        "srcimg": "https://raw.githubusercontent.com/lauraaguilo/sanlauportfolio/master/img/logo1.c13a4b43.jpg", 
+        "srcimg": "https://raw.githubusercontent.com/lauraaguilo/sanlauportfolio/img/logo1.c13a4b43.jpg", 
         "alt": "Logo del portfolio ",
         "texto": "Portfolio creatiu de Sandra Camacho i Laura Aguiló",
         "url": "https://lauraaguilo.github.io/sanlauportfolio/"
@@ -27,12 +27,12 @@
     },
      {
         "id": 4,
-        "autor": "Otros nombres",
-        "titulo": "Otro titulo de práctica",
-        "srcimg": "https://picsum.photos/1024/480?random=1/", 
-        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
-        "texto": "Otra explicación de la web",
-        "url": "https://afrikiudl.github.io/practicawd/"
+        "autor": "Adrià Sanchez i Sara Hidalgo",
+        "titulo": "Ninfa",
+        "srcimg": "https://cdn.discordapp.com/attachments/866667654475415552/935948230087307274/logo.png", 
+        "alt": "Logotipo de la empresa.",
+        "texto": "Web para la venta de colonias",
+        "url": "https://aadriasaraa.github.io/Practica2_Ninfa/"
     },
     {
         "id": 5,
